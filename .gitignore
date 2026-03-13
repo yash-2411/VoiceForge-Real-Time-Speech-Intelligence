@@ -205,3 +205,8 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# VoiceForge
+model.tar.gz
+lambda_package.zip
+test_results.json
